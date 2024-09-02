@@ -14,8 +14,11 @@ Depending on how things go, this course might be updated or have new additions a
 As of writing this, there are only three lessons, as follows:
 
 Lesson 1: Introduction Topics - Print Statements, If-Else Statements, and User Input.
+
 Lesson 2: Calculations with Mathematics & User Input (I also added a fun login feature to demonstrate the basics of if-else/user input statements).
+
 Lesson 3: Introduction to File Handling & Importing Packages.
+
 I've tried my best to be as clear and concise as possible with these lessons. The first lesson does not include many definitions, as I thought most of it was self-explanatory. If something doesn't make sense, I suggest either checking Stack Overflow threads or reaching out on my GitHub.
 
 The rest of the lessons, however, are very detailed and down-to-earth. I try to help the learner understand what certain concepts mean in a more practical sense, as well as break them down.
